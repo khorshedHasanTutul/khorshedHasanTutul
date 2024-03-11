@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with **.NET Development Team at Datavanced Bangladesh**
 
-- 🌱 I’m currently learning **Software Architecture , Design Pattern**
+- 🌱 I’m currently learning **Software Architecture , Design Pattern , Azure**
 
 - 👯 I’m looking to collaborate on **Server side programming**
 
