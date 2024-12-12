@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khorshedhasantutul&label=Profile%20views&color=0e75b6&style=flat" alt="khorshedhasantutul" /> </p>
 
-- 🔭 I’m currently working with **.NET Development Team at Datavanced Bangladesh**
+- 🔭 I’m currently working with **.NET Development Team at Datavanced Bd Ltd**
 
 - 🌱 I’m currently learning **Software Architecture , Design Pattern , Azure**
 
