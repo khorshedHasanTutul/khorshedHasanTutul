@@ -1,132 +1,101 @@
 <div align="center">
 
-# Khorshed Hasan Tutul
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Khorshed%20Hasan%20Tutul&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20.NET%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20Agents&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### Full‑Stack Engineer · System Design · AWS · AI Agents
+<a href="https://github.com/khorshedHasanTutul">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=I+build+backends+that+survive+production.;.NET+%7C+Angular+%7C+React+%7C+SQL+Server;Integrations%2C+real-time+systems%2C+background+workers;Exploring+AWS+%2B+AI+agents+that+actually+ship." alt="Typing SVG"/>
+</a>
 
-Bangladesh · Building reliable backends and pragmatic cloud systems
+<br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=khorshedhasantutul&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/khorshedhasantutul)
+<a href="mailto:khorshedicepust@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/khorshed-hasan-tutul-281290183/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/KhorshedHassanTutul/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=khorshedhasantutul&label=Profile%20views&color=0ea5e9&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## Professional summary
+### ⚡ About me
 
-Full‑stack engineer working on **.NET‑based products** with strong ownership across **API design**, **data modeling**, and **frontend delivery** (Angular / React). I care about **clear system boundaries**, **operational clarity**, and shipping features that stay maintainable after the first release.
+```csharp
+public sealed class KhorshedHasanTutul : Engineer
+{
+    public string Location  => "Bangladesh 🇧🇩";
+    public string Role      => ".NET Developer @ Datavanced Bd Ltd";
+    public string[] Stack   => [ "C#", ".NET", "Angular", "React", "TypeScript", "SQL Server" ];
+    public string[] Focus   => [ "System Design", "AWS", "AI Agents" ];
 
-Recently I have been investing more energy in **system design**, **AWS**, and **AI agents** (orchestration, tool use, evaluation, and integration patterns with existing services).
+    public string Philosophy =>
+        "Clear boundaries. Boring deployments. Code that's still readable in year two.";
+}
+```
 
----
-
-## Core strengths
-
-- **Backend & APIs:** C#, ASP.NET / .NET ecosystem, REST APIs, authentication/authorization patterns, pragmatic performance tuning  
-- **Frontend:** Angular, React, TypeScript, JavaScript  
-- **Data:** Microsoft SQL Server, PostgreSQL, SQLite (schema design, migrations mindset, query tuning basics)  
-- **Cloud & platform:** AWS‑oriented architecture (compute, networking, IAM, storage, observability mindset)  
-- **Engineering practice:** Git, code review habits, Postman for API workflows, Linux for day‑to‑day development  
-- **Architecture:** software architecture, design patterns, structured problem decomposition  
-
----
-
-## Experience
-
-### .NET Developer — Datavanced Bd Ltd *(current)*
-
-- Delivering features end‑to‑end in a **.NET** product team: backend services, integrations, and UI work where needed  
-- Collaborating on **API contracts**, **database changes**, and **release‑safe** incremental delivery  
-- Applying **design patterns** and **architecture** thinking to reduce coupling and improve testability over time  
+- 🏥 Shipping a **healthcare coordination platform** end-to-end: APIs, data model, Angular UI, and background workers
+- 🔌 Comfortable in **messy integrations**: third-party EHR sync, SMS/telephony, document signing, cloud storage, real-time updates with **SignalR**
+- 🧠 Working on **system design**, **AWS architecture**, and **AI agents** (tool use, orchestration, evals, plugging LLMs into existing services)
+- 💬 Ask me about **API design**, **SQL performance**, or **turning vague requirements into a plan**
 
 ---
 
-## Technical skills
+### 🛠️ Tech arsenal
 
-### Cloud, platform & AI
-
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="90" height="55"/></a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48"/></a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="90" height="55"/></a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48"/></a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/></a>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" alt="LLMs / AI agents" width="44" height="44"/>
-    </td>
-  </tr>
-</table>
-
-### Languages & frameworks
-
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48"/></a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="48" height="48"/></a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="62" height="48"/></a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/></a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/></a>
-    </td>
-  </tr>
-</table>
-
-### Data & API tooling
-
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="48" height="48"/></a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="62" height="48"/></a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48"/></a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48"/></a>
-    </td>
-  </tr>
-</table>
-
----
-
-## Collaboration & learning interests
-
-- **Collaborate on:** server‑side programming, APIs, cloud‑ready services, internal tooling  
-- **Learning / exploring:** blockchain fundamentals (where it actually helps vs hype)  
-- **Ask me about:** study planning, project planning, structured problem solving  
-
----
-
-## Connect
-
-<p align="left">
-  <a href="mailto:khorshedicepust@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/khorshed-hasan-tutul-281290183/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/KhorshedHassanTutul/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,ts,js,html,css&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,postgres,sqlite,git,github,linux,postman,vscode&theme=dark" />
 </p>
 
-**Phone:** 01704247162 
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediatR%20%2F%20CQRS-0f172a?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs%20%26%20AI%20Agents-10a37f?style=flat-square&logo=openai&logoColor=white"/>
+</p>
 
 ---
+
+### 🏗️ What I'm good at
+
+| Area | What that looks like |
+|---|---|
+| **Backend & APIs** | ASP.NET Core, REST, JWT auth, CQRS with MediatR, layered architecture, performance tuning |
+| **Frontend** | Angular, React, TypeScript, building complex operational dashboards and workflows |
+| **Data** | SQL Server, PostgreSQL, EF Core, schema design, safe migrations, query tuning |
+| **Integrations** | External system sync, messaging/telephony, webhooks, scheduled background workers |
+| **Cloud** | AWS-oriented design (compute, networking, IAM, storage, observability), Azure Blob |
+| **AI** | Agent orchestration, tool calling, evaluation, adding LLM features to production apps |
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khorshedHasanTutul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khorshedHasanTutul&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=khorshedHasanTutul&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=khorshedHasanTutul&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+### 🤝 Let's build something
+
+- **Open to:** backend/API work, cloud-ready services, internal tooling, AI-powered features
+- **Currently exploring:** AWS architecture patterns and production-grade AI agents
+- **Side curiosity:** blockchain, specifically where it actually helps and where it's just hype
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%"/>
+
+</div>
